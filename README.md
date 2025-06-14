@@ -68,6 +68,3 @@ You can organize keys using nested dictionaries for better readability.
 ## 📄 License
 MIT License.
 Feel free to use, modify, and share this plugin!
-
-## 🙌 Credits
-Created by Alberto with ❤️ for clean and scalable localization in Godot.
