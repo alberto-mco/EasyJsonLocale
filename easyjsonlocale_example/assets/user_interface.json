@@ -1,0 +1,15 @@
+{
+    "HelloWorld":
+    {
+        "en" : "Hello world",
+        "es" : "Hola mundo"
+    },
+    "MainScene":
+    {
+        "btnPlay":
+        {
+            "en" : "Play",
+            "es" : "Jugar"
+        }
+    }
+}

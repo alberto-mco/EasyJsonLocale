@@ -1,0 +1,16 @@
+[remap]
+
+importer="json_locale_importer"
+type="Translation"
+uid="uid://te0io45v2f2n"
+path="res://.godot/imported/user_interface.json-6dce3f3ad9b5e17af634d66e98b70649.translation"
+
+[deps]
+
+files=["res://assets/user_interface.en.translation", "res://assets/user_interface.es.translation"]
+
+source_file="res://assets/user_interface.json"
+dest_files=["res://.godot/imported/user_interface.json-6dce3f3ad9b5e17af634d66e98b70649.translation", "res://assets/user_interface.en.translation", "res://assets/user_interface.es.translation"]
+
+[params]
+
